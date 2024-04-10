@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Nam</h1>
 <h3 align="center">A regular fellow dev who is interested in all things blockchain.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nampc1" alt="nampc1" /></a> </p>
-
 - 🔭 I’m currently working on [SubWallet](https://github.com/Koniverse/SubWallet-Extension)
 
 - 🌱 I’m currently learning **Substrate, Polkadot, Rust,...**
